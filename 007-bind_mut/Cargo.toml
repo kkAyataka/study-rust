@@ -1,0 +1,6 @@
+[package]
+name = "bind_but"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
